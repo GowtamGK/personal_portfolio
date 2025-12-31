@@ -1,7 +1,7 @@
 # Personal Portfolio ⚡️ 
 > A clean, beautiful, responsive portfolio template 
 
-> https://gowtamgk.github.io/html-portfolio/
+> https://gowtamgk.github.io/personal_portfolio/
 
 ### Website Preview
 <p align="center"> 
